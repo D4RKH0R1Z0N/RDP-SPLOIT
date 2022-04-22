@@ -57,18 +57,15 @@ git clone https://github.com/D4RKH0R1Z0N/rdp-sploit && cd rdp-sploit && python r
 
 After Installation and running the script now type create or payload in the script, now Enter the information the Script Asks you (It need to be valid for it to work)<br><br>Now Go to the location that the script showed you, and make the victim execute it, it will prompt a uac asking to grant admin permission and click yes now goto your repo on github and click the issue tab copy the IP address and type `mstsc` and wait for the application to open.<br><br> Now enter the IP Address, if it asks you for the username enter the name given in the issue title where the ip address is, if you can't find it follow this format (username - pc_name - ip address) Now connect to RDP and that's all You hacked the victim!
 
-## Contributing
-
-
-
-### Creating A Pull Request
-
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
+| Status (Client) | Status (Server) |
+| --------------- | --------------- |
+| Not Tested      | Works (Windows 11) |
 
 ## Authors
 
 * **D4RKH0R1Z0N** - ** - **[D4RKH0R1Z0N](https://github.com/D4RKH0R1Z0N/)** - **
+
+# Other
+
+I have imporved the quality of my repos :)
+Is it nice?
