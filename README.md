@@ -63,8 +63,3 @@ After Installation and running the script now type create or payload in the scri
 ## Authors
 
 * **D4RKH0R1Z0N** - ** - **[D4RKH0R1Z0N](https://github.com/D4RKH0R1Z0N/)** - **
-
-# Other
-
-I have imporved the quality of my repos :)
-Is it nice?
