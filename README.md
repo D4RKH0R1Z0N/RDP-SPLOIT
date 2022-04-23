@@ -49,7 +49,7 @@ pip install pyinstaller
 Installation -
 
 ```
-git clone https://github.com/D4RKH0R1Z0N/rdp-sploit && cd rdp-sploit && python rdp-sploit.py
+git clone https://github.com/D4RKH0R1Z0N/rdp-sploit && cd rdp-sploit && cd bin && python rdp-sploit.py
 ```
 
 ## Usage
