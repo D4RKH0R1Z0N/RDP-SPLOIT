@@ -23,7 +23,6 @@
   * [Prerequisites](#prerequisites)
   * [Installation](#installation)
 * [Usage](#usage)
-* [Contributing](#contributing)
 * [Authors](#authors)
 
 ## About The Project
