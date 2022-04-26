@@ -1,5 +1,5 @@
 # Made by D4RKH0R1Z0N (https://github.com/D4RKH0R1Z0N)
-# Star the repo at (https://github.com/D4RKH0R1Z0N/rdp-sploit) Made in Python
+# Star the repo at (https://github.com/D4RKH0R1Z0N/rdp-sploit) Made In Python
 
 import os
 import random
