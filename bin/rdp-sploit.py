@@ -1,7 +1,6 @@
 # Made by D4RKH0R1Z0N (https://github.com/D4RKH0R1Z0N)
 # Star the repo at (https://github.com/D4RKH0R1Z0N/rdp-sploit) Made in Python
 
-from concurrent.futures.process import _chain_from_iterable_of_lists
 import os
 import random
 import shutil
